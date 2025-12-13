@@ -20,5 +20,10 @@ This project is designed for academic research, engineering projects, and practi
 
 ---
 
-## 🏗️ Project Architecture
+## 🏗️ Project Architecture<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/7017efe8-edef-4f58-ab8d-9cf65db7a0a2" />
+<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/f2234df9-252e-4578-8570-d99eb70c49d9" />
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/10e5f5c7-eca2-4141-a120-948223e68bfc" />
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/413f1342-6541-4d0c-a3bf-13357b65dab4" />
+<img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/68e74e3b-da10-43c6-a666-3be40df47915" />
+
 
